@@ -5,7 +5,7 @@ echo "# hacksim" > README.md
 git init
 
 # Add README
-git add README.md
+git add .
 
 # Commit changes
 git commit -m "first commit"
